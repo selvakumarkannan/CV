@@ -1,0 +1,31 @@
+{
+  "email": "selvakumarkannan.94@gmail.com",
+  "location": "Chennai, TN, India",
+  "name": "Selvakumar",
+  "phone": "",
+  "avatar": "assets/media/images/pro_offerzen.jpg",
+  "education": [
+    {
+      "title": "Bachelor of Engineering (B.E) in Electrical and Electronics Engineering",
+      "meta": "Rajalakshmi Engineering College,  2011 to 2015"
+    }
+  ],
+  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love techmology speicifically computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time tech enthusiast.",
+  "socials": [
+    {
+      "name": "selvakumarkannan.94@gmail.com",
+      "link": "mailto:selvakumarkannan.94@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/ronald-hove",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/selvakumar-kannan-75310362",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
