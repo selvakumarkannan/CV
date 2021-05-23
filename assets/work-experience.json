@@ -1,0 +1,48 @@
+{
+  "work": [
+    {
+      "date": "Feburary 2020 - Present",
+      "title": "Software Developer at IDEASSION TECH PVT LTD",
+      "description": "Conduct Work in developing web applications from end to end, occational small projects like data migration between platforms, task automation using power automate or scripting.  \n\nWe mainly develop using Angular-Spring-SQL or React-NodeJS-SQL stack.",
+      "stack": [
+        "Angular",
+        "Spring Boot",
+        "npm",
+        "Git",
+        "GitScrum",
+        "GitHub",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+        
+      ]
+    },
+    {
+      "date": "July 2018 – December 2019",
+      "title": "Assistant Project Engineer at Free Design startup",
+      "description": "I worked on data gathering, field studies for the projects also responsible for generating Feasibility Analysis Reports",
+      "stack": [
+      ]
+    },
+    {
+      "date": "Feburary 2017 – May 2018",
+      "title": "Systems Administrator at Eureka Ford",
+      "description": "I worked on maintaining, Installing and troubleshooting system hardware, printers and other networking equipments. I was also in responsible for data backup and maintainance",
+      "stack": [
+        "Excel",
+        "cmd"
+      ]
+    },
+    {
+      "date": "January 2016  - January 2017",
+      "title": "Web Designer at JJ Computers",
+      "description": "I worked as a web designer and content write for WordPress site using HTML and CSS programming, breifly worked on SEO analysis",
+      "stack": [
+        "WordPress",
+        "HTML",
+        "CSS"
+      ]
+    }
+
+  ]
+}

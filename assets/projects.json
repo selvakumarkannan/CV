@@ -1,0 +1,21 @@
+{
+  "projects": [
+    {
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "Invoice Management Web Application",
+      "description": "I have developed an application to generate and manage invoice with various levels of complications based on user requirement  \n\nIt deals with creation, verification and management of invoice from state level down to clinic level and consolidation of invoice from clinic level right to state level and vice versa."
+    },
+    {
+      "preview": "assets/media/projects/villa.png",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "PO Management Web Application",
+      "description": "I have developed a Purchase order creation and management application which deals with PO creation to approval based on user requirement.  \n\nThis application handles PO operations for a mid size corporate company "
+    },
+    {
+      "preview": "assets/media/projects/road-side.png",
+      "created_at": "2019-07-20T14:24:00.709+02:00",
+      "name": "Data Migration from Smartsheet to SQL DB ",
+      "description": "I have developed an automated/manual data migration tool for migrating data from shartsheet to DB using spring boot JAVA"
+    }
+      ]
+}
